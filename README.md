@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hiya!
+Here's my quickbits:
+- I work for Red Hat on their Advanced Cluster Management for Kubernetes addon for OpenShift!
+- I've been interested in Open Source since college, and recently finally started contributing!
+- Check out my pins for the projects I'm most proud of (they're not necessarily all my most complex)
 
+I've added holopins because I got one for participating in 🎃 Hacktoberfest 🎃
+[![@ngraham's Holopin board](https://holopin.me/ngraham)](https://holopin.io/@ngraham)
 <!--
 **ngraham20/ngraham20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
