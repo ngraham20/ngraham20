@@ -30,6 +30,7 @@ I've added holopins because I got one for participating in ðŸŽƒ Hacktoberfest ðŸ
 
 
 ## Linux Distributions
+![Bazzite Linux](https://img.shields.io/badge/UNIVERSAL_BLUE-4c69ba?style=for-the-badge&logo=fedora&logoColor=white&link=https%3A%2F%2Funiversal-blue.org)
 ![Nobara Linux](https://img.shields.io/badge/Nobara-4c2f70?style=for-the-badge&logo=pointy&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
